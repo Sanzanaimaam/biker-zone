@@ -1,3 +1,10 @@
 .bike-control-prev{
     background-color: brown;
 }
+.btn-bike-danger{
+    background-color: orangered;
+    color: azure;
+}
+.w-25{
+    width: 75% !important;
+}
